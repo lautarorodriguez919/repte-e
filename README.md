@@ -1,3 +1,10 @@
+# Imatge execució
+## Repte 6
+![programa](https://i.imgur.com/n5Wk8Xd.png)
+
+## Repte 7
+![programa](https://i.imgur.com/1jGE9j4.png)
+
 
 > Abra esta pagina en [https://lautarorodriguez919.github.io/repte-e/](https://lautarorodriguez919.github.io/repte-e/)
 
